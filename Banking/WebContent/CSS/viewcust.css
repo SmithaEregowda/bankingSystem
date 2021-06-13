@@ -1,0 +1,25 @@
+h2{
+	margin-left:400px;
+	color: white;
+    text-shadow: 2px 2px red;
+    font-size: 50px;
+}
+table{
+	margin-top:50px;
+}
+body{
+	background-color: #DCE1E3;
+}
+a{
+	background-color:red;
+	color:white;
+	text-decorstion:none;
+	
+}
+a:hover{
+	color:red;
+	background-color:white;
+	text-decorstion:none;
+}
+
+

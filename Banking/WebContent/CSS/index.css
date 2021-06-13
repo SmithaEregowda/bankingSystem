@@ -1,0 +1,41 @@
+.navbar-brand{
+    color: white;
+    text-shadow: 2px 2px red;
+    font-size: 50px;
+    margin-left: 100px;
+   
+}
+
+body{
+   background-color: #DCE1E3;
+    
+}
+p{
+    margin-top: 200px;
+    font-style: italic;
+    font-size: 60px;
+    margin-left: 100px;
+    color:red;
+     animation-name: welcome;
+      animation-duration: 5s;
+      animation-iteration-count: infinite;
+}
+ @keyframes welcome {
+            0% {
+                transform: scale(0.9);
+            }
+
+            50% {
+                transform: scale(1.1);
+            }
+        }
+
+  .navbar-navbar-expand-sm-bg-dark-navbar-dark {
+  color:black;
+  
+  }
+  .nav-item{
+   margin-left: 200px;
+   padding:30px;
+  }
+  

@@ -1,0 +1,23 @@
+body{
+   background-color: #DCE1E3;
+    
+}
+p{
+    margin-top: 200px;
+    font-style: italic;
+    font-size: 60px;
+    margin-left: 300px;
+    color:green;
+     animation-name: welcome;
+      animation-duration: 5s;
+      animation-iteration-count: infinite;
+}
+@keyframes welcome {
+            0% {
+                transform: scale(0.9);
+            }
+
+            50% {
+                transform: scale(1.1);
+            }
+        }

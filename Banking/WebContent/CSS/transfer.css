@@ -1,0 +1,44 @@
+ table{
+            font-size: xx-large;
+            margin-left: 200px;
+            background-color: transparent;
+           margin-top: 50px;
+            box-shadow:  5px 5px black;
+            position:realative;
+            margin-top:50px;
+           background-color:black;
+           color:white;
+        }
+    table,td,th{
+            
+            border-collapse: collapse;
+            padding: 20px;
+           
+        }
+        
+         tr:hover {
+         background-color: #f2f2f2;
+         color:black;
+         }
+        
+  h2{
+	margin-left:400px;
+	color: white;
+    text-shadow: 2px 2px red;
+    font-size: 50px;
+}
+
+body{
+	background-color: #DCE1E3;
+}
+#transfer:hover{
+	background-color:red;
+	color:white;
+}
+
+#submit{
+	background-color:red;
+	color:white;
+	
+}
+
